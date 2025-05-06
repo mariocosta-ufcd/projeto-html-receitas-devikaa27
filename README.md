@@ -2,3 +2,5 @@
 # projecto-receitas
 Template para o projecto receitas feito em puro html
 IM DEVIKA
+
+https://mariocosta-ufcd.github.io/projeto-html-receitas-devikaa27
